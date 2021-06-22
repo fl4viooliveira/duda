@@ -9,7 +9,6 @@
 	});
 </script>
 
-
 <canvas bind:this={webgl}></canvas>
 
 <style>
